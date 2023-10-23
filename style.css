@@ -72,6 +72,7 @@
 .hakkında-yazı{
     margin-left: 85px;
     margin-top: 10px;
+    font-size: medium;
 }
 
 .iş{
@@ -84,7 +85,8 @@
 
 .işler{
     margin-left: 100px;
-    margin-top: 10px;  
+    margin-top: 10px; 
+    font-size: medium; 
 }
 
 .sayfa3{
@@ -119,6 +121,7 @@
     color: #03045E;
     margin-right: 100px ;
     margin-left: 100px;
+    font-size: medium;
 }
 
 .iletişim-left{
@@ -139,6 +142,7 @@
     display: flex;
     justify-content: end;
     gap: 50px;
+    font-size: medium;
 }
 
 .ek{
