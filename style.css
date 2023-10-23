@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    background-color: #FBF8CC;
+}
+
+.container{
+    max-width: 1100px;
+    margin: auto;
+}
+
+.hero-header{
+    color: #03045E;
+    text-decoration: none;
+    align-items: center;
+    padding: 14px 0;
+   
+}
+
+.header-left{
+    display: flex;
+    justify-content: left;
+    font-weight: 700;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.header-mid{
+    list-style-type: none;
+    display: flex;
+    gap: 32px;
+    justify-content: center;
+    font-weight: 500;  
+}
+
+.hero-main{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 120px;
+    align-items: center;
+}
+
+.hero-main-left{
+    margin-left: 50px;
+}
+
+.hero-main-right{
+    margin-right: 50px;
+}
+
+.hero-main-title{
+    font-size: 72px;
+    color: #03045E;
+    font-weight: 800;
+}
+
+.hero-main-title2{
+    color: #03045E;
+    font-weight: 500;
+}
+
+.hakkında{
+    margin-left: 50px;
+    margin-top: 200px;
+    color: #F5EE84;
+    font-size: 72px;
+    font-weight: 800;
+}
+
+.hakkında-yazı{
+    margin-left: 85px;
+    margin-top: 10px;
+}
+
+.iş{
+    margin-left: 50px;
+    margin-top: 200px;
+    color: #F5EE84;
+    font-size: 72px;
+    font-weight: 800;
+}
+
+.işler{
+    margin-left: 100px;
+    margin-top: 10px;  
+}
+
+.sayfa3{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.sayfa3-right{
+    justify-content: end;
+    margin-top: 300px;
+}
+.iletişim{
+    margin-left: 50px;
+    margin-top: 200px;
+    color: #F5EE84;
+    font-size: 72px;
+    font-weight: 800;
+}
+.sayfa4{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.iletişim-right{
+    margin-right: 50px;
+    margin-bottom: 200px;
+   
+}
+
+.cont-list{
+    color: #03045E;
+    margin-right: 100px ;
+    margin-left: 100px;
+}
+
+.iletişim-left{
+    margin-top: 200px;
+}
+
+
+.tech{
+    margin-top: 200px;
+    color: #F5EE84;
+    font-size: 72px;
+    font-weight: 800;
+    display: flex;
+    justify-content: end;
+}
+
+.stack{
+    display: flex;
+    justify-content: end;
+    gap: 50px;
+}
+
+.ek{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ek-left{
+    margin-top: 200px;
+    margin-left: 50px;
+}
